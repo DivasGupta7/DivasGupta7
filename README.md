@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋, I'm Divas Gupta</h1>
 <h3 align="center"> Enthusiastic in competitive programming & Web Development</h3>
+<img align="right" alt="GIF" src="coding.gif" width="500"/>
 
 - 🔭 I’m currently working on [Passgen-js](https://github.com/hnccbits/passgen-js.git)
 
