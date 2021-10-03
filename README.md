@@ -2,8 +2,6 @@
 <h3 align="center"> Enthusiastic in competitive programming & Web Development</h3>
 <img align="right" alt="GIF" src="coding.gif" width="500"/>
 
-- 🔭 I’m currently working on [Passgen-js](https://github.com/hnccbits/passgen-js.git)
-
 - 🌱 I’m currently learning **nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivasGupta7](https://github.com/DivasGupta7)
