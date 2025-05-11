@@ -2,13 +2,11 @@
 <h3 align="center"> Enthusiastic in competitive programming & Web Development</h3>
 <img align="right" alt="GIF" src="coding.gif" width="500"/>
 
-- 🌱 I’m currently learning **nodejs**
+- 🌱 I’m currently learning **Java, Spring Boot, Microservices, Kafka, Reactive programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivasGupta7](https://github.com/DivasGupta7)
 
 - 📫 How to reach me **dvsmathur7050@gmail.com**
-
-- ⚡ Fun fact **I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
